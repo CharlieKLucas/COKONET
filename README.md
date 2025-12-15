@@ -1,3 +1,4 @@
-# COKONET
 
-This is the folder for storing academic works.
+# 20251205_1
+Assignment1 - MarkDown
+
